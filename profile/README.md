@@ -13,7 +13,7 @@ Click on repositories tab and search for a topic (marine mammals, stock assessme
 * **How to I request access to this organization?** See the [GitHub Governance Team intranet (NOAA internal only)](https://sites.google.com/noaa.gov/nmfs-st-github-governance-team/home) for instructions.
 * **Where can I get help with GitHub?** See the [GitHub Governance Team intranet page for GitHub users (NOAA internal only)](https://sites.google.com/noaa.gov/nmfs-st-github-governance-team/github-users).
 You can also see the [NMFS Open Science GitHub Guide (public)](https://nmfs-opensci.github.io/GitHub-Guide/)
-* **Who are the admins?** We have admins from each division to help you. You will find the list in the [noaa-nwfsc Google folder](https://drive.google.com/drive/folders/1k54HDpe6AcpfZ9LZzdIARFbH6wdi8pGl?usp=sharing). You will also find the Standard Operating Procedures (SOP) in that folder.
+* **Who are the admins?** You will find the list in the [noaa-nwfsc Google folder](https://drive.google.com/drive/folders/1k54HDpe6AcpfZ9LZzdIARFbH6wdi8pGl?usp=sharing). You will also find the Standard Operating Procedures (SOP) in that folder.
   
 ## Disclaimer
 
