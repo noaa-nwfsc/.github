@@ -1,5 +1,4 @@
 # NOAA Fisheries - Northwest Fisheries Science Center
-<img src="noaa-logo-rgb-2022.jpeg" style="width:150px;" align="right" > 
 
 This GitHub organization is for staff at the [Northwest Fisheries Science Center (NWFSC)](https://www.fisheries.noaa.gov/about/northwest-fisheries-science-center) and their collaborators. 
 
