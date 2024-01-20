@@ -6,7 +6,10 @@ Contact: nwfsc-github-admin@noaa.gov or github.governance.team@noaa.gov
 
 ## How to find repositories? 
 
-Click on repositories tab and search for a topic (marine mammals, stock assessment, genetics, etc), division name (FRAM, CB, FE) or program (e.g. Math Bio, Genetics, Ecosystem). 
+Click on repositories tab and search for a topic. You can also click the links to find repositories with specific tags:
+* NWFSC Division: FRAM, [Conservation Biology](https://github.com/search?q=topic%3Anwfsc-cb+org%3Anoaa-nwfsc&type=Repositories), Fish Ecology
+* Program: CB-Genetics, CB-MathBio
+* Topic: marine mammals, stock assessment, genetics, salmon, ecosystem
 
 ## I'm NWFSC staff
 
