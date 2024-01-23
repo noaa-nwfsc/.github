@@ -2,7 +2,7 @@
 
 This GitHub organization is for staff at the [Northwest Fisheries Science Center (NWFSC)](https://www.fisheries.noaa.gov/about/northwest-fisheries-science-center) and their collaborators. 
 
-Contact: nwfsc-github-admin@noaa.gov or github.governance.team@noaa.gov
+Contact: github.governance.team@noaa.gov
 
 ## How to find repositories? 
 
