@@ -7,6 +7,7 @@ Contact: nwfsc.githubadmin@noaa.gov (for general GitHub Enterprise questions con
 ## How to find repositories? 
 
 Click on repositories tab and search for a topic. You can also click the links to find repositories with specific tags:
+* Templates: [NWFSC template](https://github.com/noaa-nwfsc/NWFSC-Template) with appropriate disclaimers, secret scans, and licenses
 * NWFSC Division: FRAM, [Conservation Biology](https://github.com/search?q=topic%3Anwfsc-cb+org%3Anoaa-nwfsc&type=Repositories), Fish Ecology
 * Program:
   - CB: Genetics, MathBio: [webpage](https://noaa-nwfsc.github.io/cb-math-bio/) [repos](https://github.com/search?q=topic%3Anwfsc-cb-mathbio+org%3Anoaa-nwfsc&type=Repositories)
