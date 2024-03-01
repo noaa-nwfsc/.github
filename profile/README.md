@@ -1,16 +1,12 @@
 # NOAA Fisheries - Northwest Fisheries Science Center
 
-This GitHub organization is for staff at the [Northwest Fisheries Science Center (NWFSC)](https://www.fisheries.noaa.gov/about/northwest-fisheries-science-center) and their collaborators. 
-
-Contact: nwfsc.githubadmin@noaa.gov (for general GitHub Enterprise questions contact github.governance.team@noaa.gov)
+This GitHub organization is for staff at the [Northwest Fisheries Science Center (NWFSC)](https://www.fisheries.noaa.gov/about/northwest-fisheries-science-center) and their collaborators. Contact: nwfsc.githubadmin@noaa.gov (for general GitHub Enterprise questions contact github.governance.team@noaa.gov)
 
 ## How to find repositories? 
 
-Click on repositories tab and search for a topic. You can also click the links to find repositories with specific tags:
-* NWFSC Division: FRAM, [Conservation Biology](https://github.com/search?q=topic%3Anwfsc-cb+org%3Anoaa-nwfsc&type=Repositories), Fish Ecology
-* Program:
-  - CB: Genetics, MathBio: [webpage](https://noaa-nwfsc.github.io/cb-math-bio/) [repos](https://github.com/search?q=topic%3Anwfsc-cb-mathbio+org%3Anoaa-nwfsc&type=Repositories)
-* Topic: marine mammals, stock assessment, genetics, [salmon](https://github.com/search?q=topic%3Asalmon+org%3Anoaa-nwfsc&type=Repositories), ecosystem
+* Go to the main landing page: [https://noaa-nwfsc.github.io/](https://noaa-nwfsc.github.io/)
+* Click on repositories tab and search for a topic. You can also click labels/tags. 
+* Try the Teams tab. Some divisions have teams with associated repositories.
 
 ## I'm NWFSC staff
 
