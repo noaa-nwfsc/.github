@@ -9,6 +9,7 @@ Contact: nwfsc.githubadmin@noaa.gov (for general GitHub Enterprise questions con
 * Go to the main landing page: [https://noaa-nwfsc.github.io/](https://noaa-nwfsc.github.io/)
 * Click on repositories tab and search for a topic. You can also click labels/tags. 
 * Try the Teams tab. Some divisions have teams with associated repositories.
+* If you are a member of the NMFS GitHub Enterprise, you can go to [NOAA NMFS](https://github.com/enterprises/noaa-nmfs) to see internal and public repositories at other NMFS GitHub organizations.
 
 ## I'm NWFSC staff
 
